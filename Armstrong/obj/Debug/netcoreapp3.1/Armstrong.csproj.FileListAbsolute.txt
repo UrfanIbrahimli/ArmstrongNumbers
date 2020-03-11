@@ -1,0 +1,11 @@
+E:\C#\Console\Armstrong\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.exe
+E:\C#\Console\Armstrong\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.deps.json
+E:\C#\Console\Armstrong\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.runtimeconfig.json
+E:\C#\Console\Armstrong\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.runtimeconfig.dev.json
+E:\C#\Console\Armstrong\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.dll
+E:\C#\Console\Armstrong\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.pdb
+E:\C#\Console\Armstrong\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.csprojAssemblyReference.cache
+E:\C#\Console\Armstrong\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.AssemblyInfoInputs.cache
+E:\C#\Console\Armstrong\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.AssemblyInfo.cs
+E:\C#\Console\Armstrong\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.dll
+E:\C#\Console\Armstrong\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.pdb
